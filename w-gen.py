@@ -78,11 +78,11 @@ def taybat():
     sallB=input(' [+] mangi la daik bun : ')
     while len(sallB) != 0 and len(sallB) != 2:
         print("\n[-] tkaya abet 2 zhmaray mangi la daik bunaka bnusit")
-        sallA = input("> mangi la daik bun : ")
+        sallB = input("> mangi la daik bun : ")
     sallC=input(' [+] salli la daik bun : ')
-    while len(sallB) != 0 and len(sallB) != 4:
-        print("\n[-] tkaya abet 2 zhmaray salli la daik bunaka bnusit")
-        sallA = input("> salli la daik bun : ")
+    while len(sallC) != 0 and len(sallC) != 4:
+        print("\n[-] tkaya abet 4 zhmaray salli la daik bunaka bnusit")
+        sallC = input("> salli la daik bun : ")
     a=('gyan')
     b=('akam')
     c=('m')
